@@ -31,3 +31,4 @@ C:\GitHub\Monogame\obj\Debug\net9.0\refint\Monogame.dll
 C:\GitHub\Monogame\obj\Debug\net9.0\Monogame.pdb
 C:\GitHub\Monogame\obj\Debug\net9.0\Monogame.genruntimeconfig.cache
 C:\GitHub\Monogame\obj\Debug\net9.0\ref\Monogame.dll
+C:\GitHub\Monogame\obj\Debug\net9.0\Monogame.sourcelink.json
